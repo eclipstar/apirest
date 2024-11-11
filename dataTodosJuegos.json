@@ -1,39 +1,39 @@
 [
     {
         "name": "trivia1",
-        "Modulo": "1",
+        "modulo": "1",
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 1",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },
     {
         "name": "juego2",
-        "Modulo": 2,
+        "modulo": 2,
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 2",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },
     {
         "name": "parejas",
-        "Modulo": "0",
+        "modulo": "0",
         "view": "parejas",
         "descripcion": "juego para ser jugado parejas",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
         "name": "sopa de letras",
-        "Modulo": "0",
+        "modulo": "0",
         "view": "sopaDeLetras",
         "descripcion": "juego para ser jugado sopa de letras",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
         "name": "duolingo",
-        "Modulo": "0",
+        "modulo": "0",
         "view": "duolingo",
         "descripcion": "juego para ser jugado duolingo",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
         "name": "yoquese",
-        "Modulo": "3",
+        "modulo": "3",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
