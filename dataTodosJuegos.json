@@ -37,5 +37,17 @@
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+    },{
+        "name": "yoquese2",
+        "modulo": "3",
+        "view": "yoquese",
+        "descripcion": "juego para ser jugado yoquese",
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+    },{
+        "name": "yoquese3",
+        "modulo": "0",
+        "view": "yoquese",
+        "descripcion": "juego para ser jugado yoquese",
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     }
 ]
