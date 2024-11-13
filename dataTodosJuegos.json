@@ -1,53 +1,64 @@
 [
     {
+        "id":"1",
         "name": "juego1",
         "modulo": "1",
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 1",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "idTrivia":"triv1"
     },
     {
+        "id":"2",
         "name": "juego2",
         "modulo": 2,
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 2",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "idTrivia":"triv2"
     },
     {
+        "id":"3",
         "name": "parejas",
         "modulo": "0",
         "view": "parejas",
         "descripcion": "juego para ser jugado parejas",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
+        "id":"4",
         "name": "sopa de letras",
         "modulo": "0",
         "view": "sopaDeLetras",
         "descripcion": "juego para ser jugado sopa de letras",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
+        "id":"5",
         "name": "duolingo",
         "modulo": "0",
         "view": "duolingo",
         "descripcion": "juego para ser jugado duolingo",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
+        "id":"6",
         "name": "yoquese",
         "modulo": "3",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
+        "id":"7",
         "name": "yoquese2",
         "modulo": "3",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
     },{
-        "name": "yoquese3",
+        "id":"8",
+        "name": "Trivia3",
         "modulo": "0",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "idTrivia":"triv3"
     }
 ]
