@@ -1,0 +1,56 @@
+[
+  {
+    "idTrivia":"triv1",
+    "pregunta":"¿mato tunco tu tata?",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+  {
+    "idTrivia":"triv1",
+    "pregunta":"¿alo??",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+  {
+    "idTrivia":"triv1",
+    "pregunta":"¿quiobu?",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+  {
+    "idTrivia":"triv2",
+    "pregunta":"¿asdasd?",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+  {
+    "idTrivia":"triv2",
+    "pregunta":"¿jajajajajajaja?",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+  {
+    "idTrivia":"triv3",
+    "pregunta":"¿trivia de una preguinta jajajaja?",
+    "correcta":"si",
+    "alt1":"que?",
+    "alt2":"como?",
+    "alt3":"queso",
+    "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
+  }
+]
