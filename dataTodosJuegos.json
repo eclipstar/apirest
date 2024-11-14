@@ -56,7 +56,7 @@
         "id":"8",
         "name": "Trivia3",
         "modulo": "0",
-        "view": "yoquese",
+        "view": "trivia",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
         "idTrivia":"triv3"
