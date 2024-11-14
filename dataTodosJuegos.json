@@ -6,6 +6,7 @@
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 1",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
         "idTrivia":"triv1"
     },
     {
@@ -15,6 +16,7 @@
         "view": "trivia",
         "descripcion": "juego para ser jugado trivial 2",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
         "idTrivia":"triv2"
     },
     {
@@ -23,35 +25,45 @@
         "modulo": "0",
         "view": "parejas",
         "descripcion": "juego para ser jugado parejas",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
+        "idTrivia":""
     },{
         "id":"4",
         "name": "sopa de letras",
         "modulo": "0",
         "view": "sopaDeLetras",
         "descripcion": "juego para ser jugado sopa de letras",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
+        "idTrivia":""
     },{
         "id":"5",
         "name": "duolingo",
         "modulo": "0",
         "view": "duolingo",
         "descripcion": "juego para ser jugado duolingo",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
+        "idTrivia":""
     },{
         "id":"6",
         "name": "yoquese",
         "modulo": "3",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
+        "idTrivia":""
     },{
         "id":"7",
         "name": "yoquese2",
         "modulo": "3",
         "view": "yoquese",
         "descripcion": "juego para ser jugado yoquese",
-        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg"
+        "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
+        "idTrivia":""
     },{
         "id":"8",
         "name": "Trivia3",
@@ -59,6 +71,7 @@
         "view": "trivia",
         "descripcion": "juego para ser jugado yoquese",
         "imagen": "https://createvalue.org/wp-content/uploads/Effective-Questions-Banner-scaled.jpg",
+        "colorBg":"#aaaaaa",
         "idTrivia":"triv3"
     }
 ]
