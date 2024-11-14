@@ -1,5 +1,6 @@
 [
   {
+    "idPregunta":"1",
     "idTrivia":"triv1",
     "pregunta":"¿mato tunco tu tata?",
     "correcta":"si",
@@ -9,6 +10,7 @@
     "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
   },
   {
+    "idPregunta":"2",
     "idTrivia":"triv1",
     "pregunta":"¿alo??",
     "correcta":"si",
@@ -18,6 +20,7 @@
     "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
   },
   {
+    "idPregunta":"3",
     "idTrivia":"triv1",
     "pregunta":"¿quiobu?",
     "correcta":"si",
@@ -27,6 +30,7 @@
     "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
   },
   {
+    "idPregunta":"4",
     "idTrivia":"triv2",
     "pregunta":"¿asdasd?",
     "correcta":"si",
@@ -36,6 +40,7 @@
     "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
   },
   {
+    "idPregunta":"5",
     "idTrivia":"triv2",
     "pregunta":"¿jajajajajajaja?",
     "correcta":"si",
@@ -45,6 +50,7 @@
     "ayuda":"https://www.youtube.com/watch?v=oaISU5KmTPA"
   },
   {
+    "idPregunta":"6",
     "idTrivia":"triv3",
     "pregunta":"¿trivia de una preguinta jajajaja?",
     "correcta":"si",
