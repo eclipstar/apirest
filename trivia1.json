@@ -1,0 +1,346 @@
+{
+    "data": {
+        "id": 2,
+        "trivia_name": "Inteligencia Emocional",
+        "trivia_objective": "Describir el concepto de inteligencia emocional, para aprender a gestionar emociones de manera individual y con otras personas.",
+        "trivia_instructions": "",
+        "questions": [
+            {
+                "id": 12,
+                "question_name": "¿Qué es la inteligencia emocional?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 48,
+                        "answer_name": "No expresar emociones para evitar conflictos.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 12
+                    },
+                    {
+                        "id": 46,
+                        "answer_name": "La habilidad para reconocer, entender y gestionar nuestras propias emociones y de las demás personas.",
+                        "answer_description": "¡Muy bien! La inteligencia emocional ayuda a vivir tu presente, entender a los demás y apoyarlos en caso de que te lo soliciten.",
+                        "answer_option": 1,
+                        "question_id": 12
+                    },
+                    {
+                        "id": 45,
+                        "answer_name": "La capacidad de resolver problemas matemáticos rápidamente.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 12
+                    },
+                    {
+                        "id": 47,
+                        "answer_name": "Ser siempre feliz y no sentir emociones negativas.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 12
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "question_name": "¿Cuál de los siguientes es un componente de la inteligencia emocional?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 51,
+                        "answer_name": "La habilidad de siempre tener la razón.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 13
+                    },
+                    {
+                        "id": 49,
+                        "answer_name": "Memorización rápida.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 13
+                    },
+                    {
+                        "id": 52,
+                        "answer_name": "Evitar expresar emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 13
+                    },
+                    {
+                        "id": 50,
+                        "answer_name": "Autoconciencia emocional.",
+                        "answer_description": "¡Exacto! La autoconciencia emocional nos permite conocer mejor nuestro mundo emocional, para saber cómo me siento, cómo pienso y cómo actúo cuando vivo una emoción.",
+                        "answer_option": 1,
+                        "question_id": 13
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "question_name": "¿Qué es la empatía?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 54,
+                        "answer_name": "Es la habilidad de entender cómo se sienten las demás personas y responder de manera adecuada.",
+                        "answer_description": "¡Genial! La empatía nos permite escuchar a la otra persona y también responder ante esa solicitud.",
+                        "answer_option": 1,
+                        "question_id": 14
+                    },
+                    {
+                        "id": 55,
+                        "answer_name": "Es ignorar los sentimientos de los demás para enfocarse en los propios.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 14
+                    },
+                    {
+                        "id": 56,
+                        "answer_name": "Es evitar cualquier interacción emocional.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 14
+                    },
+                    {
+                        "id": 53,
+                        "answer_name": "Es la capacidad de hacer que los demás piensen como yo.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 14
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "question_name": "¿Por qué es importante la inteligencia emocional en las relaciones personales?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 58,
+                        "answer_name": "Porque hace que siempre tengamos razón.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 15
+                    },
+                    {
+                        "id": 59,
+                        "answer_name": "Porque permite gestionar mejor las emociones y resolver conflictos de manera pacífica.",
+                        "answer_description": "¡Perfecto! La inteligencia emocional nos permite manejarnos mejor con otras personas y, en caso de existir un desacuerdo, nos permite comentar nuestra postura y llegar a una solución.",
+                        "answer_option": 1,
+                        "question_id": 15
+                    },
+                    {
+                        "id": 57,
+                        "answer_name": "Porque ayuda a las personas a ignorar sus emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 15
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "question_name": "¿Cómo puede la inteligencia emocional mejorar tu vida social?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 62,
+                        "answer_name": "Al ignorar los problemas emocionales de los hombres.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 16
+                    },
+                    {
+                        "id": 61,
+                        "answer_name": "Nos permite comprender mejor las emociones de las demás personas y crear relaciones más saludables.",
+                        "answer_description": "¡Muy bien! La inteligencia emocional te permite comprender mejor a las personas y esto te da el espacio para establecer qué tipo de vínculo quieres con esa persona.",
+                        "answer_option": 1,
+                        "question_id": 16
+                    },
+                    {
+                        "id": 60,
+                        "answer_name": "Al evitar que otras personas se acerquen.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 16
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "question_name": "¿De qué manera la inteligencia emocional puede influir en el éxito personal?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 63,
+                        "answer_name": "Al permitirte controlar mejor tus emociones bajo presión y tomar decisiones más claras.",
+                        "answer_description": "¡Genial! La inteligencia emocional, aparte de permitirte que te conozcas mejor, ayuda a que tomes decisiones sobre lo que te gusta o no y sentirte cómodo con esa decisión.",
+                        "answer_option": 1,
+                        "question_id": 17
+                    },
+                    {
+                        "id": 64,
+                        "answer_name": "Al asegurarte de que nunca expreses tus sentimientos.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 17
+                    },
+                    {
+                        "id": 65,
+                        "answer_name": "Al eliminar completamente los sentimientos negativos.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 17
+                    },
+                    {
+                        "id": 66,
+                        "answer_name": "Al evitar enfrentar problemas emocionales.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 17
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "question_name": "¿Cómo ayuda la inteligencia emocional a manejar el estrés?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 68,
+                        "answer_name": "Al reconocer las emociones y aplicar estrategias para gestionarlas de manera saludable.",
+                        "answer_description": "¡Perfecto! La inteligencia emocional te ayuda a centrarte en tu presente, tus emociones y pensamientos, lo que te ayuda a utilizar tus estrategias para hacerte responsable y avanzar con tus actividades diarias.",
+                        "answer_option": 1,
+                        "question_id": 18
+                    },
+                    {
+                        "id": 67,
+                        "answer_name": "Al ignorar las emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 18
+                    },
+                    {
+                        "id": 70,
+                        "answer_name": "Al suprimir las emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 18
+                    },
+                    {
+                        "id": 69,
+                        "answer_name": "Al evitar cualquier situación que cause estrés.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 18
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "question_name": "¿Qué papel juega la autoconciencia en la gestión emocional?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 74,
+                        "answer_name": "Elimina por completo las emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 19
+                    },
+                    {
+                        "id": 71,
+                        "answer_name": "Permite identificar y entender nuestras emociones, lo que facilita un mejor control de las reacciones.",
+                        "answer_description": "¡Muy bien! La autoconciencia te permite entender mejor cómo te sientes ante una situación específica, lo que facilita o regula tus maneras de actuar ante esas situaciones que te generan desagrado o te hacen feliz.",
+                        "answer_option": 1,
+                        "question_id": 19
+                    },
+                    {
+                        "id": 73,
+                        "answer_name": "Ayuda a ocultar las emociones frente a los demás.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 19
+                    },
+                    {
+                        "id": 72,
+                        "answer_name": "Nos hace evitar hablar de nuestras emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 19
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "question_name": "¿Cómo puede la inteligencia emocional mejorar la toma de decisiones?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 77,
+                        "answer_name": "Evita que las emociones influyan en cualquier decisión.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 20
+                    },
+                    {
+                        "id": 78,
+                        "answer_name": "Impide que consideremos los sentimientos de los demás.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 20
+                    },
+                    {
+                        "id": 75,
+                        "answer_name": "Ayuda a evitar tomar decisiones emocionales.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 20
+                    },
+                    {
+                        "id": 76,
+                        "answer_name": "Facilita evaluar las emociones antes de tomar decisiones impulsivas.",
+                        "answer_description": "¡Perfecto! La inteligencia emocional te ayuda a evaluar cómo te sientes ante esa decisión que estás por tomar.",
+                        "answer_option": 1,
+                        "question_id": 20
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "question_name": "¿De qué manera la inteligencia emocional contribuye a un mayor bienestar personal?",
+                "trivia_id": 2,
+                "answers": [
+                    {
+                        "id": 79,
+                        "answer_name": "Al mantener todas las emociones ocultas.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 21
+                    },
+                    {
+                        "id": 82,
+                        "answer_name": "Al ignorar completamente nuestras emociones.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 21
+                    },
+                    {
+                        "id": 80,
+                        "answer_name": "Al hacer que las emociones sean irrelevantes para el bienestar.",
+                        "answer_description": "",
+                        "answer_option": 0,
+                        "question_id": 21
+                    },
+                    {
+                        "id": 81,
+                        "answer_name": "Al permitir reconocer, aceptar y regular las emociones, lo que reduce el estrés y mejora el bienestar general.",
+                        "answer_description": "¡Muy bien! El bienestar emocional se logra estando bien con uno mismo, por lo tanto, el reconocer e identificar cómo siento y pienso, contribuye a una mejor inteligencia emocional y una mejor calidad de vida.",
+                        "answer_option": 1,
+                        "question_id": 21
+                    }
+                ]
+            }
+        ]
+    }
+}
